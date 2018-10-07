@@ -93,6 +93,10 @@ main {
   margin: 5px;
 }
 
+p {
+  margin-top: 5px;
+}
+
 .tea img {
   width: 300px;
   height: 200px;
@@ -105,7 +109,7 @@ main {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
   height: 500px;
   width: 1200px;
-  padding-top: 60px;
+  padding-top: 40px;
   display: block;
   align-items: center;
   margin: auto;
@@ -122,8 +126,8 @@ main {
   background-color: black;
   flex-direction: column;
   width: 300px;
-  height: 285px;
-  padding: 0px 20px;
+  height: 250px;
+  padding-top: 15px;
   opacity: 1;
   margin: 10px 20px;
 }
@@ -135,9 +139,9 @@ main {
 }
 
 /* Footer */
-.Footer  {
-  text-align: left;
-  margin: 20px;
+#footer  {
+margin-left: 20px;
+text-align:
 }
 
     { } { }
